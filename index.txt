@@ -1,3 +1,7 @@
 Welcome to ARM . My first project with GIT .
+<<<<<<< HEAD
 My commit as first user.
+=======
+First  time commit by another user.
+>>>>>>> d20ea97e5d0ef5f5d8125d9238113ccb62512120
 
